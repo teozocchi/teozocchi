@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Matteo! aka teozocchi
 
-🎓 Student
-💻 Part-time IT intern | 🐧 Arch Linux daily driver | 🛠 Building real stuff, not just homework
+🎓 Student | 💻 Part-time IT intern | 🐧 Arch Linux daily driver | 🛠 Building real stuff, not just homework
 
 ---
 
