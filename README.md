@@ -1,4 +1,4 @@
-# Hi, I'm Matteo 👋 (aka sh1rafune)
+# Hi, I'm Matteo 👋 (aka teozocchi)
 
 💻 Student | 🐧 Linux Enthusiast | 💥 Aspiring DevOps Engineer  
 Currently interning in IT. I like to work on Linux-based development, scripting, automation, and am passionate about clean systems and learning by building.
