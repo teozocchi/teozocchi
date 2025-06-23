@@ -1,23 +1,58 @@
-# Hi, I'm Matteo 👋 (aka teozocchi)
+# 👋 Hey, I'm Matteo! aka teozocchi
 
-💻 Student | 🐧 Linux Enthusiast | 💥 Aspiring DevOps Engineer  
-Currently interning in IT. I like to work on Linux-based development, scripting, automation, and am passionate about clean systems and learning by building.
+🎓 Student
+💻 Part-time IT intern | 🐧 Arch Linux daily driver | 🛠 Building real stuff, not just homework
 
-## 🧰 My Tools
+---
 
-- Arch Linux, Bash, systemd
-- Python, Docker, Git, GitHub Actions
-- Kubernetes (basics), Packet Tracer
-- Neovim, Hyprland, minimal workflows
+## 🧠 About Me
 
-## 🔧 Projects in Progress
+I'm a student with a passion for clean, organized, and powerful development environments.  
+I work mostly on Linux (Arch btw), love scripting, and lean toward DevOps/system-level tooling.  
+Right now, I'm focused on building a strong portfolio while preparing for university (CS @ Milano Bicocca).
 
-- [`sysadmin-tools`](https://github.com/sh1rafune/sysadmin-tools): CLI tools for monitoring, backups, and log rotation
-- [`docker-devstack`](https://github.com/sh1rafune/docker-devstack): Docker Compose stack for dev environments
-- [`tui-tasker`](https://github.com/sh1rafune/tui-tasker): Terminal-based task manager using Python
-- [`arch-setup`](https://github.com/sh1rafune/arch-setup): Scripted, reproducible Arch install & config
-- [`capolavoro-lab`](https://github.com/sh1rafune/capolavoro-lab): R&D for my final high school project — a Linux-based dev system
+> 🔧 I believe in knowing your tools and building them if they don't exist.
 
-## 📫 Let's connect
+---
 
-I'm currently preparing for university (Informatica @ Milano-Bicocca). Always open to interesting collaborations or advice!
+## 🚧 Projects In Progress
+
+🛠 [`sysadmin-tools`](https://github.com/sh1rafune/sysadmin-tools)  
+Bash/Python tools for log rotation, backups, monitoring with no bloat, just working scripts.
+
+📦 [`docker-devstack`](https://github.com/sh1rafune/docker-devstack)  
+A full local dev environment with Docker Compose (Flask, Postgres, Redis, Nginx)
+
+📜 [`tui-tasker`](https://github.com/sh1rafune/tui-tasker)  
+Terminal-based task manager built with Python + Textual (TUI is the new GUI)
+
+🎯 [`capolavoro-lab`](https://github.com/sh1rafune/capolavoro-lab)  
+Prototyping and documenting my custom Linux-based project for my finals.
+
+⚙️ [`arch-setup`](https://github.com/sh1rafune/arch-setup)  
+My full post-install script and dotfiles for a reproducible and minimal Arch setup.
+
+---
+
+## 🧰 Tools & Tech I Use
+
+- 🐧 Arch Linux, systemd, shell scripting
+- 🐍 C++, Python, Bash, Git
+- 🐳 Docker, GitHub Actions, Kubernetes
+- ✍️ Neovim, Hyprland, zsh, kitty
+- 📡 Networking basics
+
+---
+
+## 🎯 What's Next
+
+- Keep working part-time while studying  
+- Prep for university (Informatica @ Milano-Bicocca)  
+- Long-term goal: work abroad (🇨🇭 Switzerland, 🇸🇪 Sweden, 🇺🇸 US, or remote)
+
+---
+
+## 🛰️ Let’s Connect
+
+📬 DMs open, issues welcome.  
+I love talking shop about Linux, automation, or building any type of cool stuff from scratch.
