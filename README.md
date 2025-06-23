@@ -14,25 +14,6 @@ Right now, I'm focused on building a strong portfolio while preparing for univer
 
 ---
 
-## 🚧 Projects In Progress
-
-🛠 [`sysadmin-tools`](https://github.com/teozocchi/sysadmin-tools)  
-Bash/Python tools for log rotation, backups, monitoring with no bloat, just working scripts.
-
-📦 [`docker-devstack`](https://github.com/teozocchi/docker-devstack)  
-A full local dev environment with Docker Compose (Flask, Postgres, Redis, Nginx)
-
-📜 [`tui-tasker`](https://github.com/teozocchi/tui-tasker)  
-Terminal-based task manager built with Python + Textual (TUI is the new GUI)
-
-🎯 [`capolavoro-lab`](https://github.com/teozocchi/capolavoro-lab)  
-Prototyping and documenting my custom Linux-based project for my finals.
-
-⚙️ [`arch-setup`](https://github.com/teozocchi/arch-setup)  
-My full post-install script and dotfiles for a reproducible and minimal Arch setup.
-
----
-
 ## 🧰 Tools & Tech I Use
 
 - 🐧 Arch Linux, systemd, shell scripting
