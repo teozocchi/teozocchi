@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Matteo 👋 (aka sh1rafune)
 
-<!--
-**teozocchi/teozocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student | 🐧 Linux Enthusiast | 💥 Aspiring DevOps Engineer  
+Currently interning in IT. I like to work on Linux-based development, scripting, automation, and am passionate about clean systems and learning by building.
 
-Here are some ideas to get you started:
+## 🧰 My Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Arch Linux, Bash, systemd
+- Python, Docker, Git, GitHub Actions
+- Kubernetes (basics), Packet Tracer
+- Neovim, Hyprland, minimal workflows
+
+## 🔧 Projects in Progress
+
+- [`sysadmin-tools`](https://github.com/sh1rafune/sysadmin-tools): CLI tools for monitoring, backups, and log rotation
+- [`docker-devstack`](https://github.com/sh1rafune/docker-devstack): Docker Compose stack for dev environments
+- [`tui-tasker`](https://github.com/sh1rafune/tui-tasker): Terminal-based task manager using Python
+- [`arch-setup`](https://github.com/sh1rafune/arch-setup): Scripted, reproducible Arch install & config
+- [`capolavoro-lab`](https://github.com/sh1rafune/capolavoro-lab): R&D for my final high school project — a Linux-based dev system
+
+## 📫 Let's connect
+
+I'm currently preparing for university (Informatica @ Milano-Bicocca). Always open to interesting collaborations or advice!
