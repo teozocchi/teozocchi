@@ -10,7 +10,6 @@ I'm a student with a passion for clean, organized, and powerful development envi
 I work mostly on Linux (Arch btw), love scripting, and lean toward DevOps/system-level tooling.  
 > 🔧  “What I cannot build. I do not understand.” - Richard Feynman
 
----
 
 ## 🧰 Tools & Tech I Use
 
@@ -18,7 +17,6 @@ I work mostly on Linux (Arch btw), love scripting, and lean toward DevOps/system
 - 🐍 C++, Python, Bash, Git
 - 🐳 Docker, GitHub Actions, Kubernetes
 
----
 
 ## 🛰️ Let’s Connect
 
