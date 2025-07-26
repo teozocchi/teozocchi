@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Matteo! aka teozocchi
 
-🎓 Student | 💻 Part-time IT intern | 🐧 Linux enthusiast | 🛠 Building real stuff, not just my homework
+🎓 Student | 💻 Part-time IT intern | 🐧 Linux enthusiast | 🛠 Building tools and not just my homework
 
 ---
 
@@ -10,7 +10,7 @@ I'm a student with a passion for clean, organized, and powerful development envi
 I work mostly on Linux (Arch btw), love scripting, and lean toward DevOps/system-level tooling.  
 Right now, I'm focused on building a strong portfolio while preparing for university (CS @ Milano Bicocca).
 
-> 🔧 I believe in knowing your tools and building them if they don't exist.
+> 🔧  “What I cannot build. I do not understand.” - Richard Feynman
 
 ---
 
@@ -20,7 +20,7 @@ Right now, I'm focused on building a strong portfolio while preparing for univer
 - 🐍 C++, Python, Bash, Git
 - 🐳 Docker, GitHub Actions, Kubernetes
 - ✍️ Neovim, Hyprland, zsh, kitty
-- 📡 Networking basics
+- 📡 Networking
 
 ---
 
@@ -28,7 +28,7 @@ Right now, I'm focused on building a strong portfolio while preparing for univer
 
 - Keep working part-time while studying  
 - Prep for university (Informatica @ Milano-Bicocca)  
-- Long-term goal: work abroad (🇨🇭 Switzerland, 🇸🇪 Sweden, 🇺🇸 US, or remote)
+- Long-term goal: work abroad (🇨🇭 Switzerland, 🇸🇪 Sweden, 🇺🇸 US)
 
 ---
 
