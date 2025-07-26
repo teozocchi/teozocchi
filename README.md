@@ -8,8 +8,6 @@
 
 I'm a student with a passion for clean, organized, and powerful development environments.  
 I work mostly on Linux (Arch btw), love scripting, and lean toward DevOps/system-level tooling.  
-Right now, I'm focused on building a strong portfolio while preparing for university (CS @ Milano Bicocca).
-
 > 🔧  “What I cannot build. I do not understand.” - Richard Feynman
 
 ---
@@ -19,8 +17,6 @@ Right now, I'm focused on building a strong portfolio while preparing for univer
 - 🐧 Arch Linux, systemd, shell scripting
 - 🐍 C++, Python, Bash, Git
 - 🐳 Docker, GitHub Actions, Kubernetes
-- ✍️ Neovim, Hyprland, zsh, kitty
-- 📡 Networking
 
 ---
 
