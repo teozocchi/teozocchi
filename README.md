@@ -24,14 +24,6 @@ Right now, I'm focused on building a strong portfolio while preparing for univer
 
 ---
 
-## 🎯 What's Next
-
-- Keep working part-time while studying  
-- Prep for university (Informatica @ Milano-Bicocca)  
-- Long-term goal: work abroad (🇨🇭 Switzerland, 🇸🇪 Sweden, 🇺🇸 US)
-
----
-
 ## 🛰️ Let’s Connect
 
 📬 DMs open, issues welcome.  
