@@ -1,24 +1,30 @@
-# 👋 Hey, I'm Matteo! aka teozocchi
+# ⚡ Matteo Zocchi
 
-🎓 Student | 💻 Part-time IT intern | 🐧 Linux enthusiast | 🛠 Building tools and not just my homework
+**Automation Engineering Student | Systems Optimizer | Arch Linux**
+
+I build robust, efficient tools. I don't just write code; I engineer solutions.
+Currently preparing for **Politecnico di Milano** (Automation Engineering).
 
 ---
 
-## 🧠 About Me
+## 🛠️ The Philosophy
 
-I'm a student with a passion for clean, organized, and powerful development environments.  
-I work mostly on Linux (Arch btw), love scripting, and lean toward DevOps/system-level tooling.  
-> 🔧  “What I cannot build. I do not understand.” - Richard Feynman
+> "What I cannot build, I do not understand." - Richard Feynman
 
+I believe in **low-level control** and **high-level reliability**.
+Whether it's shell scripting to automate workflows or C++ for performance, I focus on the metal, not the bloat.
 
-## 🧰 Tools & Tech I Use
+## 🧰 Technical Arsenal
 
-- 🐧 Arch Linux, systemd, shell scripting
-- 🐍 C++, Python, Bash, Git
-- 🐳 Docker, GitHub Actions, Kubernetes
+- **Core:** C++, Python, Bash
+- **Environment:** Arch Linux (System Administration & Hardening)
+- **Interest Areas:** Industrial Automation, Control Systems, Embedded Logic
 
+## 🚀 Current Focus
 
-## 🛰️ Let’s Connect
+- Converting math into code.
+- Optimizing workflows (seconds saved = life earned).
+- Building the foundation for Industrial Engineering.
 
-📬 DMs open, issues welcome.  
-I love talking shop about Linux, automation, or building any type of cool stuff from scratch.
+---
+[ 📬 Contact Me ]( your-email-or-link )
