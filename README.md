@@ -2,6 +2,7 @@
 **Automation Engineering & Low-Level Systems**
 
 Milan, Italy.
+
 ---
 ### Focus
 Minimizing entropy in software systems. Focused on industrial automation, embedded systems, and performance optimization. 
