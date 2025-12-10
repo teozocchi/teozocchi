@@ -1,4 +1,4 @@
-### Matteo Zocchi
+## Matteo Zocchi
 **Automation Engineering & Low-Level Systems**
 
 Milan, Italy.
@@ -11,13 +11,8 @@ Currently transitioning to rigorous engineering workflows pending enrollment at 
 
 ### Competencies
 *   **Core:** C++, C, Python
-*   **Systems:** Linux Administration, Bash Scripting, systemd
+*   **Systems:** Linux Administration, Bash Scripting
 *   **Infra:** Docker, CI/CD pipelines
 *   **Math:** Numerical Analysis, Control Systems (WIP)
-
-### Projects
-*   **[Project Name]**: Brief, technical description. No fluff.
-*   **[Project Name]**: Optimized [X] by [Y]%.
-
 ---
-[email@protonmail.com] | [PGP Key ID if you have one]
+[matteo.zocchi@protonmail.com]
