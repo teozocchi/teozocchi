@@ -1,30 +1,23 @@
-# ⚡ Matteo Zocchi
+### Matteo Zocchi
+**Automation Engineering & Low-Level Systems**
 
-**Automation Engineering Student | Systems Optimizer | Arch Linux**
-
-I build robust, efficient tools. I don't just write code; I engineer solutions.
-Currently preparing for **Politecnico di Milano** (Automation Engineering).
+Milan, Italy.
 
 ---
 
-## 🛠️ The Philosophy
+### Focus
+Minimizing entropy in software systems. Focused on industrial automation, embedded systems, and performance optimization. 
+Currently transitioning to rigorous engineering workflows pending enrollment at **Politecnico di Milano** (2026).
 
-> "What I cannot build, I do not understand." - Richard Feynman
+### Competencies
+*   **Core:** C++, C, Python
+*   **Systems:** Linux Administration, Bash Scripting, systemd
+*   **Infra:** Docker, CI/CD pipelines
+*   **Math:** Numerical Analysis, Control Systems (WIP)
 
-I believe in **low-level control** and **high-level reliability**.
-Whether it's shell scripting to automate workflows or C++ for performance, I focus on the metal, not the bloat.
-
-## 🧰 Technical Arsenal
-
-- **Core:** C++, Python, Bash
-- **Environment:** Arch Linux (System Administration & Hardening)
-- **Interest Areas:** Industrial Automation, Control Systems, Embedded Logic
-
-## 🚀 Current Focus
-
-- Converting math into code.
-- Optimizing workflows (seconds saved = life earned).
-- Building the foundation for Industrial Engineering.
+### Projects
+*   **[Project Name]**: Brief, technical description. No fluff.
+*   **[Project Name]**: Optimized [X] by [Y]%.
 
 ---
-[ 📬 Contact Me ]( your-email-or-link )
+[email@protonmail.com] | [PGP Key ID if you have one]
