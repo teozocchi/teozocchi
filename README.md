@@ -18,7 +18,7 @@ Comfortable across the whole stack modern automation actually runs on: real-time
 - **Software & infrastructure** — Python, Docker, CI/CD, Linux
 
 ### Selected projects
-- **[Tank Level Control (PLC + HMI)](#https://github.com/teozocchi/tank-level-control)** — hysteresis level control with safety interlocks and an HMI, in CODESYS Structured Text. 
+- **[Tank Level Control (PLC + HMI)](https://github.com/teozocchi/tank-level-control)** — hysteresis level control with safety interlocks and an HMI, in CODESYS Structured Text. 
 - **[abacus-api](https://github.com/teozocchi/abacus-api)** — containerized financial reconciliation engine: Flask API + heuristic/backtracking solver, PyPy runtime, Kubernetes.
 
 ### Currently
