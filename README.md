@@ -1,6 +1,3 @@
-<!-- This goes in the special repo named `teozocchi` (github.com/teozocchi/teozocchi) as README.md.
-     Fill the [links], swap in your real project URLs, and keep one consistent email across CV/LinkedIn/GitHub. -->
-
 ## Matteo Zocchi
 
 **Automation & Control Engineering · Embedded & Low-Level Systems**
@@ -18,10 +15,10 @@ Comfortable across the whole stack modern automation actually runs on: real-time
 - **Software & infrastructure** — Python, Docker, CI/CD, Linux
 
 ### Selected projects
-- **[Tank Level Control (PLC + HMI)](https://github.com/teozocchi/tank-level-control)** — hysteresis level control with safety interlocks and an HMI, in CODESYS Structured Text. 
+- **[Tank Level Control (PLC + HMI)](https://github.com/teozocchi/tank-level-control)** — two-mode level control in CODESYS Structured Text: on-off with hysteresis (v1) and PID on a modulating valve (v2), with safety interlocks, acknowledgeable alarms and an ISA-101-style HMI.
 - **[abacus-api](https://github.com/teozocchi/abacus-api)** — containerized financial reconciliation engine: Flask API + heuristic/backtracking solver, PyPy runtime, Kubernetes.
 
 ### Currently
 Starting Automation Engineering @ PoliMI (2026) · sharpening control-systems fundamentals · shipping projects.
 
-📫 [zocchi.matteo1@gmail.com] · [LinkedIn](https://linkedin.com/in/matteo-zocchi)
+📫 [zocchi.matteo1@gmail.com](mailto:zocchi.matteo1@gmail.com) · [LinkedIn](https://linkedin.com/in/matteo-zocchi)
