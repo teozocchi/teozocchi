@@ -16,6 +16,7 @@ Comfortable across the whole stack modern automation actually runs on: real-time
 
 ### Selected projects
 - **[Tank Level Control (PLC + HMI)](https://github.com/teozocchi/tank-level-control)** — two-mode level control in CODESYS Structured Text: on-off with hysteresis (v1) and PID on a modulating valve (v2), with safety interlocks, acknowledgeable alarms and an ISA-101-style HMI.
+- **[mh-stories-re](https://github.com/teozocchi/mh-stories-re)** — binary reverse engineering: decoded two undocumented MT Framework formats (encrypted archives, reflective parameter tables) with Ghidra + x64dbg; published Python toolchain. First working scale mod in the series.
 - **[abacus-api](https://github.com/teozocchi/abacus-api)** — containerized financial reconciliation engine: Flask API + heuristic/backtracking solver, PyPy runtime, Kubernetes.
 
 ### Currently
